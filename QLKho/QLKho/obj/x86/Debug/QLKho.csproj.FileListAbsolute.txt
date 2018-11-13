@@ -1,0 +1,291 @@
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.exe.config
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.exe
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.pdb
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\Cryptography.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\Garco10.ConnectionProviders.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\Garco10.SystemModule.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\VSCM.Base.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.exe.config
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.exe
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.pdb
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho\bin\Debug\Garco10.DataAccess.System.dll
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe.config
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.pdb
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\Garco10.DataAccess.System.dll
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe.config
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.NghiepVu.frmQD_XuatVatTu.resources
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmPhieuXuat_ChiTiet.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe.config
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.pdb
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmPhieuXuat_ChiTiet.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_XuatVatTu.resources
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.Classic.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe.config
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.pdb
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.pdb
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.Classic.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csprojResolveAssemblyReference.cache
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmPhieuXuat_ChiTiet.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_XuatVatTu.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.Cache
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmTonKho.resources
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.C1Pdf.2.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.C1Pdf.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe.config
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.exe
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.pdb
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.C1Pdf.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.Classic.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Utils.v12.2.UI.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraTreeList.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraRichEdit.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraPrinting.v12.2.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Office.v12.2.Core.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\QLKho.Data.pdb
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.C1Pdf.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1Input.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\C1.Win.C1List.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Utils.v12.2.UI.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraTreeList.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.XtraPrinting.v12.2.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\DevExpress.Office.v12.2.Core.xml
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\de\DevExpress.Office.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\es\DevExpress.Office.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ja\DevExpress.Office.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\bin\Debug\ru\DevExpress.Office.v12.2.Core.resources.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csprojAssemblyReference.cache
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_Kho.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_NhaCungCap.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmDM_VatTu.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\Garco10.Login.frmLogin.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmMain.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmPhieuXuat_ChiTiet.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmKho_VatTu.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_NhapVatTu.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmQD_XuatVatTu.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.frmTonKho.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.Properties.Resources.resources
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.GenerateResource.cache
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe.licenses
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.CoreCompileInputs.cache
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.csproj.CopyComplete
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.exe
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho\obj\x86\Debug\QLKho.pdb

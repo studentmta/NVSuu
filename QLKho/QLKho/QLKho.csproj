@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0E227FBB-FDBB-4F74-9D84-9BBFB7076F18}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLKho</RootNamespace>
+    <AssemblyName>QLKho</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.C1Pdf.2, Version=2.1.20101.137, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1FlexGrid.2, Version=2.6.20101.528, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\C1.Win.C1FlexGrid.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic.2, Version=2.6.20101.528, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.2, Version=2.0.20101.33244, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL">
+      <HintPath>../../../../Documents/May10/Code/Garco10.DHSX/File%20DLL/C1.Win.C1Input.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1List.2, Version=2.1.20101.165, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\C1.Win.C1List.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Cryptography">
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.UI, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v12.2, Version=12.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Garco10.ConnectionProviders">
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\Garco10.ConnectionProviders.dll</HintPath>
+    </Reference>
+    <Reference Include="Garco10.SystemModule">
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\Garco10.SystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VSCM.Base">
+      <HintPath>..\..\..\..\Documents\May10\Code\Garco10.DHSX\File DLL\VSCM.Base.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DanhMuc\frmDM_Kho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDM_Kho.Designer.cs">
+      <DependentUpon>frmDM_Kho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDM_NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDM_NhaCungCap.Designer.cs">
+      <DependentUpon>frmDM_NhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDM_VatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDM_VatTu.Designer.cs">
+      <DependentUpon>frmDM_VatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuXuat_ChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuXuat_ChiTiet.Designer.cs">
+      <DependentUpon>frmPhieuXuat_ChiTiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVariables.cs" />
+    <Compile Include="NghiepVu\frmKho_VatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\frmKho_VatTu.Designer.cs">
+      <DependentUpon>frmKho_VatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\frmQD_NhapVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\frmQD_NhapVatTu.Designer.cs">
+      <DependentUpon>frmQD_NhapVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\frmQD_XuatVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\frmQD_XuatVatTu.Designer.cs">
+      <DependentUpon>frmQD_XuatVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\frmTonKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\frmTonKho.Designer.cs">
+      <DependentUpon>frmTonKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DanhMuc\frmDM_Kho.resx">
+      <DependentUpon>frmDM_Kho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDM_NhaCungCap.resx">
+      <DependentUpon>frmDM_NhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDM_VatTu.resx">
+      <DependentUpon>frmDM_VatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuXuat_ChiTiet.resx">
+      <DependentUpon>frmPhieuXuat_ChiTiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\frmKho_VatTu.resx">
+      <DependentUpon>frmKho_VatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\frmQD_NhapVatTu.resx">
+      <DependentUpon>frmQD_NhapVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\frmQD_XuatVatTu.resx">
+      <DependentUpon>frmQD_XuatVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\frmTonKho.resx">
+      <DependentUpon>frmTonKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\ico_Abort.png" />
+    <None Include="Resources\ico_UploadImage1.png" />
+    <None Include="Resources\ico_Upload1.png" />
+    <None Include="Resources\ico_Update1.png" />
+    <None Include="Resources\ico_Search1.png" />
+    <None Include="Resources\ico_Save1.png" />
+    <None Include="Resources\ico_Print1.png" />
+    <None Include="Resources\ico_Paste1.png" />
+    <None Include="Resources\ico_Forward1.png" />
+    <None Include="Resources\ico_Exit1.png" />
+    <None Include="Resources\ico_Excel1.png" />
+    <None Include="Resources\ico_Edit1.png" />
+    <None Include="Resources\ico_Delete1.png" />
+    <None Include="Resources\ico_Cut1.png" />
+    <None Include="Resources\ico_Copy1.png" />
+    <None Include="Resources\ico_Check1.png" />
+    <None Include="Resources\ico_Back1.png" />
+    <None Include="Resources\ico_Add1.png" />
+    <None Include="Resources\ico_Abort1.png" />
+    <Content Include="Resources\ico_Add.png" />
+    <Content Include="Resources\ico_Back.png" />
+    <Content Include="Resources\ico_Check.png" />
+    <Content Include="Resources\ico_Copy.png" />
+    <Content Include="Resources\ico_Cut.png" />
+    <Content Include="Resources\ico_Delete.png" />
+    <Content Include="Resources\ico_Edit.png" />
+    <Content Include="Resources\ico_Excel.png" />
+    <Content Include="Resources\ico_Exit.png" />
+    <Content Include="Resources\ico_Forward.png" />
+    <Content Include="Resources\ico_Paste.png" />
+    <Content Include="Resources\ico_Print.png" />
+    <Content Include="Resources\ico_Save.png" />
+    <Content Include="Resources\ico_Search.png" />
+    <Content Include="Resources\ico_Update.png" />
+    <Content Include="Resources\ico_Upload.png" />
+    <Content Include="Resources\ico_UploadImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QLKho.Data\QLKho.Data.csproj">
+      <Project>{34474CF9-B985-4027-8D2A-FD72D01E547A}</Project>
+      <Name>QLKho.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

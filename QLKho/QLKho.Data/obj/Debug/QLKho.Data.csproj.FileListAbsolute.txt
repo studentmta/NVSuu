@@ -1,0 +1,36 @@
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+C:\Users\QUAN\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+C:\Users\QUANPHAM\Dropbox\Projects\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+D:\VSCM\6. Quan ly nhan su\2. Dao tao, Boi duong\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+E:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+F:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojResolveAssemblyReference.cache
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+D:\TTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\bin\Debug\QLKho.Data.pdb
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csproj.CoreCompileInputs.cache
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.dll
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.pdb
+D:\Ki7\T4-TKGD&CNLTTH\Project QLVatTu Mau\QLKho\QLKho.Data\obj\Debug\QLKho.Data.csprojAssemblyReference.cache
